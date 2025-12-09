@@ -1,5 +1,7 @@
 # Book Catalog API
 
+Deployed at: https://backend-bookstore-xftk.onrender.com/
+
 A RESTful API for managing a book catalog with JWT-based authentication.
 
 ## Features
@@ -146,6 +148,11 @@ Start Command: `npm start`
 4. Login to get the JWT token
 5. Set the `token` variable with the received token
 6. Test protected routes with the token
+
+## Author
+
+Karinigam S A
+
 
 ## License
 
